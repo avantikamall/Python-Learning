@@ -16,10 +16,20 @@ This repository documents my learning journey through practical exercises and ex
 
 Building practical Python and Data Analytics skills through continuous learning and hands-on practice.
 
-### 📚 Latest Learning
+### 📚 Latest Learning: Retail Store Sales EDA
 
-**Python Data Analytics Practice** — Python, Pandas, data cleaning, outlier detection, encoding techniques, and Exploratory Data Analysis.
+This practice includes an end-to-end Exploratory Data Analysis of retail store sales data, covering:
 
-**Retail Store Sales EDA** — An end-to-end analysis covering data cleaning, missing values, outlier detection, visualization, correlation, and business insights.
+- Data understanding and cleaning
+- Missing value analysis
+- Outlier detection
+- Univariate and bivariate analysis
+- Correlation analysis
+- Multivariate analysis
+- Business insights
 
-The Retail Store Sales analysis uses the accompanying `retail_store_sales.csv` dataset for hands-on practice.
+The project uses `retail_store_sales.csv` as the original dataset and includes a cleaned dataset for further analysis.
+
+### 🎯 Goal
+
+To build practical Python and Data Analytics skills through hands-on projects and real-world datasets.
